@@ -407,7 +407,9 @@ h6 {
   color: #fff;
   background: #47536e;
   position: relative;
+  width: 200px; 
   border-radius: 25px;
+  text-align: center;
 }
 
 #hero .download-btn:hover {
